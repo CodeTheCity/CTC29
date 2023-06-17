@@ -5,3 +5,22 @@ Over the weekend we had ## people on Saturday, and ## on Sunday, come together t
 
 ## The Projects 
 The ## projects which attendees worked on over the weekend were:
+
+
+### Open Prescribing Scotland
+
+A project looking at open prescribing data in Scotland
+
+- [Project Repo](https://github.com/CodeTheCity/open_prescribing_scotland)
+
+### Hygine Hackers
+
+A project focused on a Food Hygiene Data Pipeline
+
+- [Project Repo](https://github.com/CodeTheCity/food_hygiene-data-pipeline)
+
+# Hex
+
+A project looking at health data "hexibins"
+
+- [Project Repo](https://github.com/CodeTheCity/hex/)
