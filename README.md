@@ -19,7 +19,7 @@ A project focused on a Food Hygiene Data Pipeline
 
 - [Project Repo](https://github.com/CodeTheCity/food_hygiene-data-pipeline)
 
-# Hex
+### Hex
 
 A project looking at health data "hexibins"
 
