@@ -6,7 +6,7 @@ Over the weekend we had 33 people on Saturday, and 15 on Sunday, come together t
 You can read the [event homepage](https://codethecity.org/ctc29/) for more background. 
 
 ## The Projects
-The ## projects which attendees worked on over the weekend were:
+The 4 projects which attendees worked on over the weekend were:
 
 ### Bee Bee
 
