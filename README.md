@@ -8,18 +8,11 @@ You can read the [event homepage](https://codethecity.org/ctc29/) for more backg
 ## The Projects
 The ## projects which attendees worked on over the weekend were:
 
+### Bee Bee
 
-### Open Prescribing Scotland
+A project focusing on Health and exercise data by [James Littlejohn](https://twitter.com/aboynejames)
 
-A project looking at open prescribing data in Scotland
-
-- [Project Repo](https://github.com/CodeTheCity/open_prescribing_scotland)
-
-### Hygiene Hackers
-
-A project focused on a Food Hygiene Data Pipeline
-
-- [Project Repo](https://github.com/CodeTheCity/food_hygiene-data-pipeline)
+- [Project Repo](https://github.com/healthscience/bbAI)
 
 ### Hex
 
@@ -27,8 +20,15 @@ A project looking at health data "hex-bins"
 
 - [Project Repo](https://github.com/CodeTheCity/hex/)
 
-### Bee Bee
+### Hygiene Hackers
 
-A project focusing on Health and exercise data by [James Littlejohn](https://twitter.com/aboynejames)
+A project focused on a Food Hygiene Data Pipeline
 
-- [Project Repo](https://github.com/healthscience/bbAI)
+- [Project Repo](https://github.com/CodeTheCity/food_hygiene-data-pipeline)
+
+
+### Open Prescribing Scotland
+
+A project looking at open prescribing data in Scotland
+
+- [Project Repo](https://github.com/CodeTheCity/open_prescribing_scotland)
