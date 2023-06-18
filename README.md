@@ -28,3 +28,5 @@ A project looking at health data "hexibins"
 ### BBE
 
 A project focusing on Health and exercise data by [James Littlejohn](https://twitter.com/aboynejames)
+
+- [Project Repo](https://github.com/healthscience/bbAI)
