@@ -1,7 +1,7 @@
 # CTC29
 Health hack weekend 17-18 June 2023
 
-Over the weekend we had 33 people on Saturday, and 15 on Sunday, come together to work on 4 projects from the [11 that had been suggested](https://docs.google.com/document/d/1UScD0wlgVOk-1gyNyev2wckervLN6pw2DxIxLer96dM) prior to [the event](https://codethecity.org/ctc29/) 
+Over the weekend we had 33 people on Saturday, and 16 on Sunday, come together to work on 4 projects from the [11 that had been suggested](https://docs.google.com/document/d/1UScD0wlgVOk-1gyNyev2wckervLN6pw2DxIxLer96dM) prior to [the event](https://codethecity.org/ctc29/) 
 
 You can read the [event homepage](https://codethecity.org/ctc29/) for more background. 
 
